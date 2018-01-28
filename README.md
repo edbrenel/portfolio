@@ -1,2 +1,1 @@
-# portfolio
-<h1>fafdasf</h1>
+<?php include('index.php'); ?>
