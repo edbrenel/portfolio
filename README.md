@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8"/>
-	<meta name="robots" content="index,nofollow">
-	<title>Ed Brenel</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<script src="js/jquery.min.js"></script>
-	<script src="js/jquery-ui.min.js"></script>
-	<script src="js/jquery.flip.min.js"></script>
-	<script src="js/main.js"></script>
-</head>
-<body id="Home">
 <header>
 	<a href="#Home">AppSeek.site</a>
 </header>
@@ -34,5 +20,3 @@
 <footer>
 	<p>&copy; AppSeek.site 2018</p>
 </footer>
-</body>
-</html>
